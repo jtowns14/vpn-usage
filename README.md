@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/QurLqjG.png" height="40%" width="60%"/>
 </p>
 
-<h1>Observing the Effect of a VPN on IP Addressing</h1>
+<h1>Observing the Effect of a VPN on IP Address</h1>
 In this project, I conducted observations to understand how a virtual private network (VPN) affects IP addresses, locations, and web browsing activities. <br />
 
 
